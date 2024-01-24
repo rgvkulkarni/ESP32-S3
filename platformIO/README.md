@@ -15,7 +15,7 @@ https://code.visualstudio.com/download
  
         git clone https://github.com/rgvkulkarni/ESP32-S3.git.
 
-  2. Open the "platformIO" project folder in the VS-Code IDE
+  2. Open the "LVGL-RGB" project folder in the VS-Code IDE
 
   3. In VS-code IDE go to the Extentions section and install the search for the "Python", "PLATFORMIO IDE" package and click on install
 
